@@ -8,3 +8,5 @@ Created by <yourname>"
 
 Note 9A:
 You may also want to include or mention what type of License your project has, or at least a copyright line if you wish to protect any design elements you've created, if applicable.
+
+“This README file has been edited.”
